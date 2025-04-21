@@ -2,11 +2,11 @@
 
 ## Le challenge
 
-Création de la fonctionnalité : texte sur l'image
+Création de la fonctionnalité : texte sur l'image.
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/texte_sur_image/
 
 ## Projet développé avec
 
