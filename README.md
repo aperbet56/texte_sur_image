@@ -1,1 +1,21 @@
 ## TEXTE SUR L'IMAGE
+
+## Le challenge
+
+Création de la fonctionnalité : texte sur l'image
+
+## Démonstration
+
+Lien vers le projet :
+
+## Projet développé avec
+
+- Utilisation des balises sémantiques HTML5
+- CSS3
+- Flexbox
+- -webkit-text-stroke
+- -webkit-text-fill-color
+- Page web responsive
+- Desktop first
+- Importation de la police "Winky Rough"
+- Utilisation d'un normaliseur : le fichier normalize.css
