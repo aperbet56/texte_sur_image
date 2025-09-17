@@ -1,5 +1,7 @@
 ## TEXTE SUR L'IMAGE
 
+![Design preview for the project](./img/preview.png)
+
 ## Le challenge
 
 Création de la fonctionnalité : texte sur l'image.
